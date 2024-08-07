@@ -1,0 +1,24 @@
+Running test for council: WalthamForest
+An error occurred: Message: 
+Stacktrace:
+#0 0x5610f232b6ba <unknown>
+#1 0x5610f1ffb730 <unknown>
+#2 0x5610f204ad9b <unknown>
+#3 0x5610f204b081 <unknown>
+#4 0x5610f208ecd4 <unknown>
+#5 0x5610f206da7d <unknown>
+#6 0x5610f208c1ca <unknown>
+#7 0x5610f206d7f3 <unknown>
+#8 0x5610f203dec9 <unknown>
+#9 0x5610f203e91e <unknown>
+#10 0x5610f22f19eb <unknown>
+#11 0x5610f22f5972 <unknown>
+#12 0x5610f22dee15 <unknown>
+#13 0x5610f22f6502 <unknown>
+#14 0x5610f22c3d2f <unknown>
+#15 0x5610f231a578 <unknown>
+#16 0x5610f231a750 <unknown>
+#17 0x5610f232a48c <unknown>
+#18 0x7f1176437a94 <unknown>
+#19 0x7f11764c4a34 __clone
+
